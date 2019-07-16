@@ -30,3 +30,8 @@ figcaption {
   display: block;
   text-align: center;
 }
+#details div {
+  text-align: center;
+  background-color: 
+  width: 25%;
+}
